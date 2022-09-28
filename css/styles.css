@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.intro {
+  color: #243A73;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Yellowtail', cursive;
+  font-size: 6rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #4B6587;
+  border-width: 5px;
+  border-bottom-style: none;
+  width: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  line-height: 2;
+}
+
+.top {
+  background-color: #B5DEFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.me {
+  width: 10%;
+}
+
+.code {
+  width: 45%;
+  float: left;
+  margin-right: 40px;
+}
+
+.about {
+  width: 115%;
+  margin: auto;
+}
+
+.code2 {
+  width: 30%;
+  float: right;
+  margin-left: 20px;
+}
+
+.lovecode {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.middle {
+  background-color: #94B3FD;
+}
+
+.dev {
+  color: #525E75;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Yellowtail', cursive;;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.bottom {
+  background-color: #D6E5FA;
+}
+
+.links {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer-link {
+  color: #525E75;
+  font-family: 'Varela Round', sans-serif;
+  margin: 10px 20px 10px 20px;
+}
